@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    background-color: black;
+}
+
+header{
+    display: flex; 
+    text-align: center;
+    background: url(../Images/storm_clouds.png);
+    background-size: cover;
+    color: white;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    display: flex;
+    text-align: center;
+    letter-spacing: 5px;
+    margin: 150px;
+    font-size: 60px;
+}
